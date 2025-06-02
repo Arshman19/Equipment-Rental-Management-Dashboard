@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Equipment-Rental-Management-Dashboard/static/css/main.10d0131d.css",
+    "main.js": "/Equipment-Rental-Management-Dashboard/static/js/main.3f0d0f65.js",
+    "index.html": "/Equipment-Rental-Management-Dashboard/index.html",
+    "main.10d0131d.css.map": "/Equipment-Rental-Management-Dashboard/static/css/main.10d0131d.css.map",
+    "main.3f0d0f65.js.map": "/Equipment-Rental-Management-Dashboard/static/js/main.3f0d0f65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d0131d.css",
+    "static/js/main.3f0d0f65.js"
+  ]
+}
